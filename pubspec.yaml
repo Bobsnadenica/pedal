@@ -12,6 +12,7 @@ dependencies:
   cupertino_icons: ^1.0.8
   provider: ^6.1.2
   path_provider: ^2.1.4
+  photo_view: ^0.15.0
 
 dev_dependencies:
   flutter_test:
@@ -23,8 +24,8 @@ flutter:
   uses-material-design: true
   assets:
     - assets/icons/app_icon.png
-    - assets/pedali/
     - assets/images/login_page.png
+    - assets/pedali/
 
 flutter_icons:
   android: true
